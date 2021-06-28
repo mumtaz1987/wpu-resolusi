@@ -5,6 +5,7 @@ RENCANA KONTENT WPU
   * Framework Javascipt
     -> React
     -> Angular
+    -> Vue
 - PHP Frameworks
    -> Laravel
 - Interview 
