@@ -3,6 +3,8 @@ RENCANA KONTENT WPU
 - Javascript
   * ES 6 
   * Framework Javascipt
+    -> Vue
 - PHP Frameworks
+   -> Laravel
 - Interview 
 - Vlogs
